@@ -1,7 +1,7 @@
 # Project: Landing Page
 
 ## Links
-- [Try My Landing Page Here!!](https://georgan1987.github.io/Project_Landing_page/https://georgan1987.github.io/Project_Landing_page/https://georgan1987.github.io/Project_Landing_page/)
+- [Try My Landing Page Here!!](https://georgan1987.github.io/Project_Landing_page/)
 - [Link to the Assignment](https://www.theodinproject.com/lessons/foundations-landing-page)
 
 ## About
