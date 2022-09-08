@@ -1,0 +1,178 @@
+body{
+    margin: 0;
+}
+
+.container1 {
+    display: flex;
+    flex-direction: column;
+    background-color: #1f2937;
+    margin: 0;
+    padding: 10px 150px 30px;
+}
+
+.header-text{
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+.header-links, .secondary-text{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.main-text{
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+
+.header-links{
+    list-style-type: none;
+    display: flex;
+    gap: 16px;
+}
+
+.header-links a {
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
+.header1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 70px;
+}
+
+.header2{
+    display: flex;
+    justify-content: space-between;
+    }
+
+.header2-left{
+    width: 400px;
+    height: 300px;
+}
+
+img{
+    width: 600px;
+    height: 220px;
+}
+
+.secondary-text{
+    padding-bottom: 10px;
+}
+
+.sign-up{
+    border: 2px solid #3882f6;
+    border-radius: 5px;
+    background-color: #3882f6;
+    color: #F9FAF8;
+    width: 120px;
+    height: 30px;
+}
+
+.container2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 100px;
+}
+
+.information-text{
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+    padding: 40px;
+
+}
+
+.small-container{
+    display: flex;
+    gap: 50px;    ;
+}
+
+.box img{
+    width: 12em;
+    height: 12em;
+    border-style: solid;
+    border-color: #3882f6;
+    border-radius: 8px;
+}
+
+.box{
+    width: 12em;
+}
+
+.text-box{
+    font-size: 23px;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.container3{
+    padding: 100px 550px;
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+}
+
+.quote-text{
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.quoter{
+    align-self: flex-end;
+    font-size: 26px;
+    font-weight: 600;
+    color: #1f2937;
+}
+
+..container4{
+    display: flex;
+}
+
+.bluebox{
+    background-color: #3882f6;
+    display: flex;
+    margin: 60px 150px;
+    height: 130px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.bluetext1{
+    color: white;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.bluetext2{
+    color: white;
+}
+
+.button2{
+    border: 2px solid #F9FAF8;
+    background-color: #3882f6;
+    border-radius: 5px;
+    color: #F9FAF8;
+    width: 120px;
+    height: 30px;
+}
+
+.footer{
+    display: flex;
+    background-color: #1f2937;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+
+}
+
+.footer-text{
+    font-size: 18px;
+    color: #E5E7EB;
+}
