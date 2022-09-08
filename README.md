@@ -7,7 +7,7 @@
 ## About
 This webpage was created as a project/excercise of [The Odin Project](https://www.theodinproject.com/). Flexbox is being utilized to display elements on the page.
 
-Photos were taken from ![Pexels Website](https://www.pexels.com/)
+Photos were taken from [Pexels Website](https://www.pexels.com/)
 
 ## Screenshots
 ![](./pic1.jpeg)
